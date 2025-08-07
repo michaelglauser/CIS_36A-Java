@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Null
+comment0.text=\nThe\ null\ class\ returns\ an\ empty\ List\ of\ ChessMovePosition\ objects.\ \nIt\ exists\ primarily\ because\ I\ couldn't\ figure\ out\ a\ way\ to\ make\ it\ not\ exist.\ \nIn\ practice,\ this\ class\ represents\ an\ empty\ square\ on\ the\ chessboard.\ \n\n
+comment1.params=
+comment1.target=java.util.List\ availableChessMoves()
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ChessMovePosition
+comment0.text=\n\n\n
+comment1.params=x\ y
+comment1.target=ChessMovePosition(int,\ int)
+comment2.params=p
+comment2.target=ChessMovePosition(greenfoot.Actor)
+comment3.params=x\ y
+comment3.target=boolean\ correspondsTo(int,\ int)
+comment4.params=p
+comment4.target=boolean\ correspondsTo(ChessMovePosition)
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+numComments=7

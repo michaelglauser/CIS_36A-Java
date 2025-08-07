@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LegalMoves
+comment0.text=\n\ The\ LegalMoves\ class\ is\ used\ highlight\ the\ legal\ moves\ for\ each\ chess\ piece.\n\n
+comment1.params=
+comment1.target=LegalMoves()
+numComments=2

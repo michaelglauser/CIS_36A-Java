@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Bishop
+comment0.text=\n\ Bishop\ piece.\n
+comment1.params=move
+comment1.target=Bishop(int)
+comment2.params=
+comment2.target=java.util.List\ availableChessMoves()
+numComments=3
