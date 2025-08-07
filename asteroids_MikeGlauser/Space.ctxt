@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\n\ Space.\ Something\ for\ rockets\ to\ fly\ in...\n\ \n\ @author\ Michael\ K\u00F6lling\n\ @version\ 2.0\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\n\ Create\ the\ space\ world\ with\ black\ background\ and\ stars.\n
+comment2.params=number
+comment2.target=void\ createStars(int)
+comment2.text=\n\ Create\ some\ random\ stars\ in\ the\ world\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=4
